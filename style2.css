@@ -1,0 +1,46 @@
+
+
+input {
+	font-size: 50px;
+	text-decoration: none;
+	position: absolute;
+    top:70%;
+    left:25%;
+
+}
+
+body{
+	background-image: url(../img/math.jpg);
+}
+
+#square {
+	width: 400px;
+	height: 5px;
+	background: #FFFAFA;
+	position: absolute;
+	top: 50%
+	left:50%
+	
+
+}
+
+.golden {
+	font-size: 50px;
+	position: absolute;
+	top: 350px;
+	left:450px
+}
+/*вопрос 1
+*/
+
+h1 {
+	color: white;
+}
+
+.enter {
+	font-size: 50px;
+	position: absolute;
+	top: 500px;
+	left:650px
+}
+/*кнопка ответить*/

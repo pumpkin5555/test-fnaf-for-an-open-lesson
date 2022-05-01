@@ -1,0 +1,91 @@
+
+
+
+
+.qwerty {
+	font-size: 100px;
+	margin: 0px;
+	text-decoration: none;
+	position: absolute;
+    top:70%;
+    left:40%;
+    
+   
+
+    
+}
+
+a {
+	text-decoration: none;
+	color: white;
+
+}
+
+#circle {
+	width: 100px;
+	height: 100px;
+	background: #FF8C00;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	display: inline-block;
+	background-image: url(project_openstudy/img/brain.png);
+}
+
+#square {
+	width: 400px;
+	height: 100px;
+	background: #FF8C00;
+	display: inline-block;
+	position: absolute;
+	top: 8px;
+	margin-inline-start: 10px;
+	
+
+}
+
+
+
+.TEXT  {
+	font-size: 75px;
+	margin: 0px;
+	position: absolute;
+    top:30%;
+    left:10%;
+
+}
+
+body{
+	background-image: url(../img/math.jpg);
+}
+
+h1 {
+	color: white;
+}
+
+
+.contain {
+	display: inline-block;
+}
+
+
+img {
+	width: 100px;
+	height: 100px;
+	background: #FF8C00;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	display: inline-block;
+
+}
+
+h2 {
+	font-size: 50px;
+	margin-bottom: 30px;
+
+
+}
+
+
+
