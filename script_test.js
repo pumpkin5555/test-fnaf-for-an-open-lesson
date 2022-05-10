@@ -1,2 +1,9 @@
+
+document.querySelector('.enter').addEventListener("click", myClick)
 let otvet = document.querySelector(".otvet").value
-alert(otvet)
+
+
+
+function myClick(){
+    alert(otvet)
+}

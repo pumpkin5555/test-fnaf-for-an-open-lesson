@@ -10,7 +10,7 @@ input {
 }
 
 body{
-	background-image: url(../img/math.jpg);
+	background-image: url(../img/fnaf_2.jpg);
 }
 
 #square {
@@ -28,7 +28,7 @@ body{
 	font-size: 50px;
 	position: absolute;
 	top: 350px;
-	left:450px
+	left:320px
 }
 /*вопрос 1
 */
@@ -40,7 +40,10 @@ h1 {
 .enter {
 	font-size: 50px;
 	position: absolute;
-	top: 500px;
-	left:650px
+	top: 530px;
+	left:500px
 }
 /*кнопка ответить*/
+.otvet{
+	
+}

@@ -29,7 +29,7 @@ a {
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	display: inline-block;
-	background-image: url(project_openstudy/img/brain.png);
+	background-image: url(project_openstudy/img/logo.jpg);
 }
 
 #square {
@@ -56,7 +56,9 @@ a {
 }
 
 body{
-	background-image: url(../img/math.jpg);
+	background-image: url(../img/3.jpg);
+	background-size: 1200px 686px;
+	
 }
 
 h1 {
