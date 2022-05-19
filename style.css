@@ -38,6 +38,7 @@ a {
 	/*background: #FF8C00;*/
 	display: inline-block;
 	position: absolute;
+	background-size: contain;
 /*	top: 8px;
 	margin-inline-start: 10px;*/
 	background-image: url(../img/logo.jpg);
